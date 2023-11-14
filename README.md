@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm TheAmericanMaker!
 
-<!--
+
 **TheAmericanMaker/TheAmericanMaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Welcome to my world of coding, where each project is a new adventure! 🚀
@@ -13,4 +13,3 @@ Welcome to my world of coding, where each project is a new adventure! 🚀
 📫 How to reach me: Send me a message.
 ⚡ Fun fact: I view programming as a form of modern magic, where ideas become reality through code!
 Feel free to browse my repositories to see what I've been up to. Let's connect and create something amazing together!
--->
