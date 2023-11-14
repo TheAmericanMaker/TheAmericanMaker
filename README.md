@@ -1,17 +1,4 @@
 ### Hi there 👋, I'm TheAmericanMaker!
-
-<div style="animation: spin 4s linear infinite;">
-    <p>Welcome to my GitHub profile!</p>
-</div>
-
-<style>
-@keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-}
-</style>
-
-
 **TheAmericanMaker/TheAmericanMaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Welcome to my world of coding, where each project is a new adventure! 🚀
