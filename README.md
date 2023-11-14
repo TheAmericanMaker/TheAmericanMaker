@@ -1,6 +1,6 @@
-### Hi there 👋, I'm TheAmericanMaker!
+## **Hi there 👋, I'm TheAmericanMaker!**
 
-Welcome to my world of coding, where each project is a new adventure! 🚀
+### Welcome to my world of coding, where each project is a new adventure! 🚀
 
 🔭 I’m currently working on: The Eldritch Engine, a desktop and Web app designed to enrich Dungeons & Dragons sessions for Dungeon Masters. It combines the D&D 5e API with OpenAI's dynamic content generation, offering a unique blend of predefined and AI-enhanced resources for immersive gameplay.
 
