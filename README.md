@@ -1,13 +1,27 @@
-### Hi there 👋, I'm **TheAmericanMaker**!
+# Hello, I'm TheAmericanMaker
 
-Welcome to my world of coding, where each project is a new adventure! 🚀
+## About Me
+Software developer focused on Python applications, automation, and AI integration. I build tools that solve real problems and enhance user experiences.
 
-- 🔭 **I’m currently working on:** Eldritch Engine, a desktop and web app designed to enrich Dungeons & Dragons sessions for Dungeon Masters. It combines the D&D 5e API with OpenAI's dynamic content generation, offering a unique blend of predefined and AI-enhanced resources for immersive gameplay.
-- 🌱 **I’m currently learning:** AI and Large Language Models (LLMs). Fascinated by how they're transforming the tech landscape!
-- 👯 **I’m looking to collaborate on:** Python-based projects, especially those pushing boundaries in automation, data analysis, and AI.
-- 🤔 **I’m looking for help with:** Advancing my skills in AI and data science. Always eager to learn and grow.
-- 💬 **Ask me about:** Python, project ideation, and my journey into the realms of tech and programming.
-- 📫 **How to reach me:** [Add your contact details or social media links here]
-- ⚡ **Fun fact:** I view programming as a form of modern magic, where ideas become reality through code!
+## Current Project
+- **[Simple Ollama GUI](https://github.com/TheAmericanMaker/simple-ollama-gui)** - A user-friendly interface for interacting with Ollama AI models locally.
 
-Let's connect and create something amazing together!
+## Skills & Technologies
+- **Languages**: Python, JavaScript, HTML/CSS
+- **Frameworks/Libraries**: Django, Flask, TensorFlow
+- **Tools**: Git, Docker, VS Code
+- **Areas of Interest**: AI/ML, LLMs, Automation, Data Analysis
+
+## Learning & Growth
+Currently deepening my knowledge in AI technologies and Large Language Models, exploring their practical applications in software development.
+
+## Collaboration
+Open to collaborating on Python projects, especially those involving AI integration or automation. Always interested in connecting with other developers to exchange ideas and build together.
+
+## Connect With Me
+- **GitHub**: [TheAmericanMaker](https://github.com/TheAmericanMaker)
+- **Email**: TheAmericanMaker@gmail.com
+- **Discord**: TheAmericanMaker
+
+## Personal Note
+When I'm not coding, you can find me spending time with my family. I view programming as creative problem-solving - transforming ideas into functional tools that make a difference.
