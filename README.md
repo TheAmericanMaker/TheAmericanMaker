@@ -4,7 +4,7 @@
 Software developer focused on Python applications, automation, and AI integration. I build tools that solve real problems and enhance user experiences.
 
 ## Current Project
-- **[Simple Ollama GUI](https://github.com/TheAmericanMaker/simple-ollama-gui)** - A user-friendly interface for interacting with Ollama AI models locally.
+- **[Simple Ollama GUI](https://github.com/TheAmericanMaker/Simple-Ollama-GUI-Client)** - A user-friendly interface for interacting with Ollama AI models locally.
 
 ## Skills & Technologies
 - **Languages**: Python, JavaScript, HTML/CSS
