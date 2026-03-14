@@ -1,11 +1,10 @@
 # Hello, I'm TheAmericanMaker
 
 ## About Me
-Maker, fabricator, and entrepreneur running two businesses — **[AmericanArtifice.com](http://AmericanArtifice.com)** (CAD design, FDM 3D printing, CNC plasma cutting, and 3D laser scanning) and **[FieldMasterUSA.com](http://FieldMasterUSA.com)** (farm-focused hardware products). I've been designing for FDM printing since 2011 and recently added an industrial CNC mill to the shop. I write code the same way I approach fabrication — practical, functional, and built to solve a real problem.
+Maker, fabricator, and entrepreneur running two businesses. I've been designing for FDM printing since 2011 and recently added an industrial CNC mill to the shop. I write code the same way I approach fabrication — practical, functional, and built to solve a real problem.
 
 ## Current Projects
 - **Foreman** — A self-hosted local AI processing daemon. Started as an email automation system and is growing into a general-purpose pluggable AI framework for local infrastructure.
-- **FieldMasterUSA Products** — Hardware design and prototyping for agriculture, including IoT-integrated farm equipment.
 - **Machine Shop Buildout** — Scaling a garage CNC operation toward a commercial job shop with a focus on prototyping and small production runs.
 
 ## Skills & Technologies
