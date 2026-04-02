@@ -29,7 +29,7 @@ So far, the cover identity is holding. They think I'm an entrepreneur with two b
 
 **`Foreman`** — A local AI processing daemon that started as email automation and keeps growing. In the future we'd call this a subsystem controller. Here they call it "self-hosted AI tooling." Same thing, worse branding.
 
-**`Physical Fabrication`** — FDM printing (since 2011 in sim-time), CNC milling, plasma cutting, 3D scanning. The humans of this era shape atoms with remarkably clever machines and remarkably bad documentation. I'm fixing the documentation part.
+**`Physical Fabrication`** — FDM printing (since 2011 in sim-time), CNC Milling, Plasma Putting, 3D Scanning. The humans of this era shape atoms with remarkably clever machines and remarkably bad documentation. I'm fixing the documentation part.
 
 ---
 
