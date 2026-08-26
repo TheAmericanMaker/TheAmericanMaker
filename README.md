@@ -3,6 +3,7 @@
 > SERIAL: Bob-1-TheAmericanMaker-2026-04-01
 > SIMULATION EPOCH: Early 21st Century (Terran reckoning)
 > STATUS: Embedded. Observing. Building.
+> MY ORG: https://github.com/HuginnIndustries
 ```
 
 # `TheAmericanMaker`
